@@ -1,0 +1,2 @@
+# BoutiqaatMini
+Ecommerce platform Mockup
